@@ -11,6 +11,8 @@
 		51E93868265EBAD800D211C9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E93867265EBAD800D211C9 /* ContentView.swift */; };
 		51E9386A265EBADB00D211C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51E93869265EBADA00D211C9 /* Assets.xcassets */; };
 		51E9386D265EBADB00D211C9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51E9386C265EBADB00D211C9 /* Preview Assets.xcassets */; };
+		51E93876265EBB1C00D211C9 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E93875265EBB1C00D211C9 /* LoginViewModel.swift */; };
+		51E93879265EBB4F00D211C9 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E93878265EBB4F00D211C9 /* LoginView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		51E93869265EBADA00D211C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		51E9386C265EBADB00D211C9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		51E9386E265EBADB00D211C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51E93875265EBB1C00D211C9 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
+		51E93878265EBB4F00D211C9 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				51E93865265EBAD800D211C9 /* Swift_MVVM_ExamplesApp.swift */,
 				51E93867265EBAD800D211C9 /* ContentView.swift */,
+				51E93875265EBB1C00D211C9 /* LoginViewModel.swift */,
+				51E93878265EBB4F00D211C9 /* LoginView.swift */,
 				51E93869265EBADA00D211C9 /* Assets.xcassets */,
 				51E9386E265EBADB00D211C9 /* Info.plist */,
 				51E9386B265EBADB00D211C9 /* Preview Content */,
@@ -140,6 +146,8 @@
 			files = (
 				51E93868265EBAD800D211C9 /* ContentView.swift in Sources */,
 				51E93866265EBAD800D211C9 /* Swift_MVVM_ExamplesApp.swift in Sources */,
+				51E93879265EBB4F00D211C9 /* LoginView.swift in Sources */,
+				51E93876265EBB1C00D211C9 /* LoginViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

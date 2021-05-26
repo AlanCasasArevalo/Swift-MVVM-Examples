@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Swift-MVVM Examples
-//
-//  Created by Alan Casas on 26/05/2021.
-//
-
 import SwiftUI
 
 struct ContentView: View {
